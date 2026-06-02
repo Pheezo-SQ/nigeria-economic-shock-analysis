@@ -127,7 +127,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 # Run cells section by section
 ```
 
----
 
-*Philip Ohejira · PGD Information Technology · NOUN Abuja · 2026*  
-*github.com/Pheezo-SQ · linkedin.com/in/philip-o-821b17116*
+
+
