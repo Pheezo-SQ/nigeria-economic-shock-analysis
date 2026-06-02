@@ -1,0 +1,9 @@
+year,gdp_growth_pct,gdp_usd_billion,petrol_price_ngn_per_litre,poverty_headcount_pct,notes
+2019,2.27,448.12,145.00,40.10,Pre-reform baseline
+2020,-1.92,432.29,148.00,42.00,COVID-19 recession
+2021,3.40,440.78,162.00,41.30,Recovery
+2022,3.10,477.39,165.00,40.90,
+2023,2.74,362.81,617.00,42.50,Subsidy removed May 2023 — petrol shock
+2024,3.40,252.30,900.00,45.00,Naira collapse — GDP in USD terms fell sharply
+2025,4.00,285.00,1050.00,44.20,Recovery begins
+2026,4.20,310.00,1100.00,43.50,Forecast — World Bank / IMF
